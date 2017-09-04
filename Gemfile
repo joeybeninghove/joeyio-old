@@ -1,4 +1,5 @@
-source 'http://rubygems.org'
+source "http://rubygems.org"
 
-gem 'github-pages'
-gem 'html-proofer'
+gem "github-pages"
+gem "html-proofer"
+gem "jemoji"

@@ -4,6 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<div class="center">
+  <h2>Howdy, I'm Joey Beninghove.</h2>
+  <h4>I build and help run software products for a living.</h4>
+  <p></p>
+</div>
+
+
+
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
