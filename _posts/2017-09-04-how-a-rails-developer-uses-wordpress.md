@@ -77,7 +77,7 @@ end
 
 Yes, the view code below is quite nasty, no doubt about that.  But for my purposes right now, it worked great and is really all I needed.  Of course I could do some major refactoring on it from a TDD standpoint, break out some models to abstract away the CSV parsing, etc.
 
-#### But, you know
+#### But, you know...
 
 <iframe src="https://giphy.com/embed/bWM2eWYfN3r20" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
