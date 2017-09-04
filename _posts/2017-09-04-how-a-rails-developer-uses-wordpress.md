@@ -56,7 +56,7 @@ So at this point I basically had 2 options:
 2. Whip up a quick Rails app to generate the markup I need in a repeatable fashion
     * This sounds much more fun inducing and would probably be a quicker win for now :tada:
 
-Now, while I actually am pretty proficient with PHP coding in general, I'm a bit less experienced with doing it in the context of WordPress.  So I decided to spin up a quick Rails app to tackle this for now.  <span class="evidence">One of the things I love about Rails is that I've found it to be a great tool both for [building massive e-commerce platforms](https://cart66.com/?utm_source=joey&utm_medium=blog) and for just spinning up quick little hack solutions like this quickly.</span> So, `rails new my-quick-hack` to the rescue.
+Now, while I actually am pretty proficient with PHP coding in general, I'm a bit less experienced with doing it in the context of WordPress.  So I decided to spin up a quick Rails app to tackle this for now.  <span class="evidence">One of the things I love about Rails is that I've found it to be a great tool both for [building massive e-commerce platforms](https://cart66.com/?utm_source=joey&utm_medium=blog) and for just spinning up little hack solutions like this quickly.</span> So, `rails new my-quick-hack` to the rescue.
 
 ## The Solution
 
