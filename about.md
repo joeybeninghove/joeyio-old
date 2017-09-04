@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+sitemap: false
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
