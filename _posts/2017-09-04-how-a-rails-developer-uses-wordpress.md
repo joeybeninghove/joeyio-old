@@ -1,5 +1,5 @@
 ---
-title: "How A Rails Developer Uses WordPress"
+title: How A Rails Developer Uses WordPress
 layout: post
 date: 2017-09-04 00:00
 image: /assets/images/rails-plus-wordpress.png
