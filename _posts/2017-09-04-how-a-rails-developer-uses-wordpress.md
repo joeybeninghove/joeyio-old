@@ -9,7 +9,7 @@ tag:
 - rails
 category: blog
 author: joeybeninghove
-star: true
+star: false
 description: Using a quick and simple Rails app to solve a markup issue in a WordPress page
 ---
 

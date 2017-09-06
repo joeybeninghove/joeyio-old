@@ -5,10 +5,15 @@ sitemap: false
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<div class="center">
+<div class="text-center">
   <h2>Howdy, I'm Joey Beninghove.</h2>
-  <h4>I build and help run software products for a living.</h4>
-  <p></p>
+  <p>
+    I build and help run software products over at
+    <a href="https://cart66.com/?utm_source=joey&utm_medium=blog">Cart66</a>.
+  </p>
+  <p>
+    I'm a blessed dad with a family of 6 including a beautiful wife and 4 little rascals running around.
+  </p>
 </div>
 
 
