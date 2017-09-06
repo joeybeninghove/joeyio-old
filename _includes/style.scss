@@ -23,6 +23,24 @@
 @import "components/social-links";
 @import "components/spoiler";
 
+p,
+ul li,
+ol li,
+figcaption,
+.author > .toright > .bio,
+.footer-main,
+.header-home > .description,
+.projects > .list aside,
+.post > .post-tags,
+.tags > .list > .item,
+.tags > .list aside {
+  font-weight: 400;
+}
+
 img.screenshot {
   border: 1px solid #ededed;
+}
+
+.post > .title-image {
+  max-height: 300px;
 }
