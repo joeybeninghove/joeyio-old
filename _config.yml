@@ -8,8 +8,8 @@ description: Talking about building and managing software products
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile-sketch-square.jpg
+external-image: true
+picture: https://avatars1.githubusercontent.com/u/31863?s=460&v=4
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -57,8 +57,8 @@ authors:
   joeybeninghove:
     name: Joey Beninghove
     bio: Doctor Product and Mister Code
-    external-image: false
-    picture: assets/images/profile.jpg
+    external-image: true
+    picture: https://avatars1.githubusercontent.com/u/31863?s=460&v=4
     twitter: joeybeninghove
 
 # do you want a larger site? change the option below
