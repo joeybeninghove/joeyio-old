@@ -7,8 +7,7 @@ tag:
 - rails
 category: blog
 author: joeybeninghove
-description: A cool and tiny pub/sub implementation in Ruby
-star: true
+description: Fixing an issue with ActionCable while using Webpacker with Rails 5.2 Beta 2
 ---
 
 _This is mainly for myself so that I can remember what the heck I did to get this working in case I need it for the future._
