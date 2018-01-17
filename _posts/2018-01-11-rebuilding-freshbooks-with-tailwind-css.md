@@ -9,7 +9,6 @@ tag:
 category: blog
 author: joeybeninghove
 description: Tailwind Demo using FreshBooks as an example
-star: true
 ---
 
 ## Source Code
